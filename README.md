@@ -4,7 +4,7 @@
 
 MSc Computer Science student exploring Java, Spring Boot, Web Development, and backend development while gaining hands-on experience through real-world projects and internship work.
 
-[LinkedIn](https://linkedin.com/in/gayatri-pardeshi) · [Portfolio](https://gayatripardeshiportfolio.netlify.app/) · [GitHub](https://github.com/Gayatripardesh) · [Email](mailto:gayatripardeshi120@gmail.com) · [LeetCode](https://leetcode.com/u/gayatrip120/)
+[LinkedIn](https://linkedin.com/in/gayatri-pardeshi) · [Portfolio](https://gayatripardeshiportfolio.netlify.app/) · [GitHub](https://github.com/Gayatripardesh) · [Email](gayatripardeshi120@gmail.com) · [LeetCode](https://leetcode.com/u/gayatrip120/)
 
 ---
 
