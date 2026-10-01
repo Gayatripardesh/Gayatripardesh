@@ -6,6 +6,18 @@ MSc Computer Science student exploring Java, Spring Boot, Web Development, and b
 
 [LinkedIn](https://linkedin.com/in/gayatri-pardeshi) · [Portfolio](https://gayatripardeshiportfolio.netlify.app/) · [GitHub](https://github.com/Gayatripardesh) · [Email](mailto:gayatripardeshi120@gmail.com) ·  [LeetCode](https://leetcode.com/u/gayatrip120/)
 
+<p align="left">
+  <a href="https://linkedin.com/in/gayatri-pardeshi">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://gayatripardeshiportfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="mailto:gayatripardeshi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ## About
