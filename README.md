@@ -11,7 +11,7 @@ MSc Computer Science student exploring Java, Spring Boot, Web Development, and b
   <a href="mailto:gayatripardeshi120@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
   <a href="https://leetcode.com/u/gayatrip120/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
----
+_____________________________________________________________________________________________________________________________
 
 ## About
 
@@ -24,7 +24,8 @@ MSc Computer Science student exploring Java, Spring Boot, Web Development, and b
 * 📚 Currently learning API Integration, Authentication & Authorization, and API Testing
 * 🚀 Interested in building practical projects and continuously improving my development skills
 
----
+_____________________________________________________________________________________________________________________________
+
 
 ## Tech Stack
 
@@ -38,7 +39,8 @@ MSc Computer Science student exploring Java, Spring Boot, Web Development, and b
 | **Tools**         | Git, GitHub, VS Code, Eclipse, Jira                                         |
 | **Other**         | Canva                                                                       |
 
----
+_____________________________________________________________________________________________________________________________
+
 
 ## Featured Projects
 
@@ -68,7 +70,8 @@ DecisionDeck is a full-stack decision-making web application that helps users or
 * Practiced HTML, CSS, JavaScript, and React.js, Node.js, Express.js, and MongoDB Atlas
 * Built interfaces that adapt across different screen sizes
 
----
+_____________________________________________________________________________________________________________________________
+
 
 ## Currently Learning 📚
 
@@ -78,8 +81,11 @@ DecisionDeck is a full-stack decision-making web application that helps users or
 * React Development
 * Data Structures & Algorithms
 * Git & GitHub
+* Gen-AI
+* SaaS Development
 
----
+_____________________________________________________________________________________________________________________________
+
 
 ## Let's Connect 🤝
 
