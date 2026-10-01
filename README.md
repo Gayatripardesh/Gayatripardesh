@@ -1,6 +1,6 @@
 # Hi, I'm Gayatri Pardeshi 
 
-**· Java & Web Development · MSc Computer Science**
+**Java & Web Development · MSc Computer Science**
 
 MSc Computer Science student exploring Java, Spring Boot, Web Development, and backend development while gaining hands-on experience through real-world projects and internship work.
 
