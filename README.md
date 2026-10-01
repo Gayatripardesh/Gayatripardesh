@@ -1,4 +1,4 @@
-# Hi, I'm Gayatri Pardeshi 👋
+# Hi, I'm Gayatri Pardeshi 
 
 **Software Developer Intern @ BizzFly · Java & Web Development · MSc Computer Science**
 
