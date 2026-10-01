@@ -5,19 +5,8 @@
 MSc Computer Science student exploring Java, Spring Boot, Web Development, and backend development while gaining hands-on experience through real-world projects and internship work.
 
 
-<p align="left">
-  <a href="https://linkedin.com/in/gayatri-pardeshi">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge" />
-  </a>
-  <a href="https://gayatripardeshiportfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge" />
-  </a>
-  <a href="mailto:gayatripardeshi@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge" />
-  </a>
-  <a href="YOUR_LEETCODE_PROFILE_URL">
-    <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge" />
-  </a>
+<p align="center">
+<a href="https://linkedin.com/in/gayatri-pardeshi"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge"></a><a href="https://gayatripardeshiportfolio.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge"></a><a href="mailto:gayatripardeshi@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge"></a>
 </p>
 ---
 
