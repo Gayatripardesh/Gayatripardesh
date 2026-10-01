@@ -7,16 +7,18 @@ MSc Computer Science student exploring Java, Spring Boot, Web Development, and b
 
 <p align="left">
   <a href="https://linkedin.com/in/gayatri-pardeshi">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://gayatripardeshiportfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-Visit-black?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="mailto:gayatripardeshi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/EMAIL-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="YOUR_LEETCODE_PROFILE_URL">
+    <img src="https://img.shields.io/badge/LEETCODE-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
-
 ---
 
 ## About
